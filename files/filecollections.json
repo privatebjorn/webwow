@@ -1,0 +1,1011 @@
+{
+  "softwareCollection": [
+    {
+      "id": "000d3d2d8c1342",
+      "title": "Advanced Inventory",
+      "year": 2017,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "Keep track of objects and other items in your possession. The application stores all items as a series of files and folders thereby allowing them to be viewed again even after the application is discontinued.",
+      "screenshots": [
+        {
+          "id": "750f2308de8144",
+          "title": "Advanced Inventory Screenshot",
+          "description": "Screenshot from Advanced Inventory",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "8a14b11847cf4b",
+          "title": "Advanced Inventory Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "73200464b2f54c",
+      "title": "Cybercity",
+      "year": 2020,
+      "developer": "webwow",
+      "category": "games",
+      "description": "Eddy in cybercity was a planned continuation of the first point and click game. This game follows Eddy (the protagonist) through the dystopic cyberworld where he interacts with hackers and various other entities to try and bring the world leading company to fall. Click about and solve some challenging puzzles to try and progress further through the game. This is the alpha release (no where near final). The game was never fully completed and development stagnated in 2021 with plans to resume development after finding a better development tool. A more complete beta version with finalised first level has been archived with plans to potentially upload the work some time in the future.",
+      "screenshots": [
+        {
+          "id": "a826b1b59b754e",
+          "title": "Cybercity Screenshot",
+          "description": "Screenshot from Cybercity",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "61c1d533bed547",
+          "title": "Cybercity Windows",
+          "description": "Windows 98/XP",
+          "mimeType": "application/7z",
+          "fileExtension": "7z"
+        }
+      }
+    },
+    {
+      "id": "7207b8f46f1a4b",
+      "title": "Dos Packager",
+      "year": 2018,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "Have you ever wanted to package a bunch of DOS games as single .exe files? Well now you can with this piece of software by HorrorWeedVideo. Note: I don't own WinRAR or DOSBox, which are both excellent programs, used as components within my program. Be sure to checkout both of these companies products.",
+      "screenshots": [
+        {
+          "id": "0ecb30df03a84c",
+          "title": "Dos Packager Screenshot",
+          "description": "Screenshot from Dos Packager",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "58de56d74df648",
+          "title": "Dos Packager Screenshot",
+          "description": "Screenshot from Dos Packager",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "ec602f45442c45",
+          "title": "Dos Packager Windows",
+          "description": "Windows XP+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "b1dcdd48355a42",
+      "title": "Dot Sim",
+      "year": 2017,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "A dot simulation that starts adding dots to your computer screen. (Almost a screensaver)",
+      "screenshots": [
+        {
+          "id": "c9928cfd725a42",
+          "title": "Dot Sim Screenshot",
+          "description": "Screenshot from Dot Sim",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "aeb819ea4abb48",
+          "title": "Dot Sim Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "9599d2d2481c40",
+      "title": "Film Selector",
+      "year": 2015,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "A utility that lets you organise mp4 films on your computer with description and screenshots. (Program no longer seems to be in a working state, some code might be lost to time).",
+      "screenshots": [
+        {
+          "id": "eac969715db347",
+          "title": "Film Selector Screenshot",
+          "description": "Screenshot from Film Selector",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "de312ba80aa04b",
+          "title": "Film Selector Windows",
+          "description": "Windows XP",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "52f6cda1d9ee4a",
+      "title": "Fu App",
+      "year": 2018,
+      "developer": "webwow",
+      "category": "fun",
+      "description": "This is a pranking utility app that spawns and moves around a message on the victims computer.",
+      "screenshots": [
+        {
+          "id": "b4bf9682bc3a48",
+          "title": "Fu App Screenshot",
+          "description": "Screenshot from Fu App",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "6e405771b5f64a",
+          "title": "Fu App Screenshot",
+          "description": "Screenshot from Fu App",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "macos": {
+          "id": "3b6fc39e69464c",
+          "title": "Fu App Macos",
+          "description": "Mac OS 8+",
+          "mimeType": "application/sit",
+          "fileExtension": "sit"
+        },
+        "windows": {
+          "id": "ead976d2b16647",
+          "title": "Fu App Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "c990e7494ae246",
+      "title": "Hackerman",
+      "year": 2019,
+      "developer": "webwow",
+      "category": "fun",
+      "description": "Hackerman is a small program which puts hacker text up on your screen. Its a great little utility if you are making a video or simply want to show off to some friends.",
+      "screenshots": [
+        {
+          "id": "380e6e023e894a",
+          "title": "Hackerman Screenshot",
+          "description": "Screenshot from Hackerman",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "macos": {
+          "id": "4785a162ed3c4f",
+          "title": "Hackerman Macos",
+          "description": "Mac OS 8+",
+          "mimeType": "application/sit",
+          "fileExtension": "sit"
+        },
+        "windows": {
+          "id": "bf0a1cb43b1b44",
+          "title": "Hackerman Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "99d0728ad0704e",
+      "title": "Ip Finder",
+      "year": 2021,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "This utility shows your IP address. This is very useful for Mac OS 9 multiplayer gaming.",
+      "screenshots": [
+        {
+          "id": "0071076ae67d4a",
+          "title": "Ip Finder Screenshot",
+          "description": "Screenshot from Ip Finder",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "macos": {
+          "id": "9df3dedc48b34a",
+          "title": "Ip Finder Macos",
+          "description": "Mac OS 8+",
+          "mimeType": "application/sit",
+          "fileExtension": "sit"
+        }
+      }
+    },
+    {
+      "id": "6d541258e3fc44",
+      "title": "Micron Edit",
+      "year": 2017,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "Micron edit is a featured rich text editor allowing you to create text documents.",
+      "screenshots": [
+        {
+          "id": "7165183e9ea04e",
+          "title": "Micron Edit Screenshot",
+          "description": "Screenshot from Micron Edit",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "ee188e1622c148",
+          "title": "Micron Edit Windows",
+          "description": "Windows XP",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "375cb5e445dd48",
+      "title": "Notes Thing",
+      "year": 2015,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "A small utility letting you quickly jot down notes on your computer.",
+      "screenshots": [
+        {
+          "id": "83882cd5a1b041",
+          "title": "Notes Thing Screenshot",
+          "description": "Screenshot from Notes Thing",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "58092c8b11cb4c",
+          "title": "Notes Thing Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "05db7d05193242",
+      "title": "Pnce V1",
+      "year": 2019,
+      "developer": "webwow",
+      "category": "games",
+      "description": "This is the classic game which kick started the entire WebWow story. The game follows the journey of a young and aspiring drug dealer. Click around and solve various puzzles that progress you to the next stage of the journey. The game was completed in 2018 with no plans to release to the public. This site will simply offer a promotional video and sample CD download. (The sample CD refers to the disc that the game would run from)",
+      "screenshots": [
+        {
+          "id": "647f949ca30e48",
+          "title": "Pnce V1 Screenshot",
+          "description": "Screenshot from Pnce V1",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "059a0c5f413a46",
+          "title": "Pnce V1 Screenshot",
+          "description": "Screenshot from Pnce V1",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "37f4cf4f8d1246",
+          "title": "Pnce V1 Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/7z",
+          "fileExtension": "7z"
+        }
+      }
+    },
+    {
+      "id": "03499377583649",
+      "title": "Ram Downloader",
+      "year": 2020,
+      "developer": "webwow",
+      "category": "fun",
+      "description": "Have you ever wanted to download some RAM onto your computer? Well we have a solution for you!",
+      "screenshots": [
+        {
+          "id": "1dccb23e403741",
+          "title": "Ram Downloader Screenshot",
+          "description": "Screenshot from Ram Downloader",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "c2c68d80df324e",
+          "title": "Ram Downloader Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "b22236846e724f",
+      "title": "Recycling Game",
+      "year": 2018,
+      "developer": "webwow",
+      "category": "games",
+      "description": "What goes where? A small game that aims to get you to sort right.",
+      "screenshots": [
+        {
+          "id": "ed3f549ab9124a",
+          "title": "Recycling Game Screenshot",
+          "description": "Screenshot from Recycling Game",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "web": {
+          "id": "3d72678c6c4a47",
+          "title": "Recycling Game Web",
+          "description": "Webbrowser HTML5",
+          "mimeType": "application/7z",
+          "fileExtension": "7z"
+        }
+      }
+    },
+    {
+      "id": "b13c8fa36f654e",
+      "title": "Rockpaper Kys",
+      "year": 2020,
+      "developer": "webwow",
+      "category": "games",
+      "description": "This is a rock paper scissors game where you vs the computer. The twist however is that the computer insults you.",
+      "screenshots": [
+        {
+          "id": "62a5e9e9e1cb41",
+          "title": "Rockpaper Kys Screenshot",
+          "description": "Screenshot from Rockpaper Kys",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "9805a5b5aa7442",
+          "title": "Rockpaper Kys Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "84da948b21ea48",
+      "title": "Test Client",
+      "year": 2018,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "This is a quick test client allowing you to explore TCP sockets and connectivity between multiple computers.",
+      "screenshots": [
+        {
+          "id": "177bf94d0bcc4d",
+          "title": "Test Client Screenshot",
+          "description": "Screenshot from Test Client",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "macos": {
+          "id": "3faef8f4bff44c",
+          "title": "Test Client Macos",
+          "description": "Mac OS 8+",
+          "mimeType": "application/sit",
+          "fileExtension": "sit"
+        },
+        "windows": {
+          "id": "53f8f9df9cd24b",
+          "title": "Test Client Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "be9bd1feede74f",
+      "title": "Ultrapong",
+      "year": 2019,
+      "developer": "webwow",
+      "category": "games",
+      "description": "",
+      "screenshots": [
+        {
+          "id": "6a967a2ab84c49",
+          "title": "Ultrapong Screenshot",
+          "description": "Screenshot from Ultrapong",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "4225ae4f51644f",
+          "title": "Ultrapong Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "0ffbad4aeba943",
+      "title": "Webwow Site",
+      "year": 2022,
+      "developer": "webwow",
+      "category": "website",
+      "description": "This is the download section for the old webwow homepage source code. The pages are all HTML4 compliant and showcase the history of the WebWow brand.",
+      "screenshots": [
+        {
+          "id": "051f91fd5de44f",
+          "title": "Webwow Site Screenshot",
+          "description": "Screenshot from Webwow Site",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "37b75bdacb3f49",
+          "title": "Webwow Site Screenshot",
+          "description": "Screenshot from Webwow Site",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "6a0520bb195140",
+          "title": "Webwow Site Screenshot",
+          "description": "Screenshot from Webwow Site",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "20edf9d20c8a46",
+          "title": "Webwow Site Screenshot",
+          "description": "Screenshot from Webwow Site",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "98baa2e8905848",
+          "title": "Webwow Site Screenshot",
+          "description": "Screenshot from Webwow Site",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "web": {
+          "id": "4fd5bfeb902e4b",
+          "title": "Webwow Site Web",
+          "description": "Webbrowser",
+          "mimeType": "application/7z",
+          "fileExtension": "7z"
+        }
+      }
+    },
+    {
+      "id": "166cb5c253d647",
+      "title": "Wow Bang",
+      "year": 2019,
+      "developer": "webwow",
+      "category": "games",
+      "description": "Welcome to WowBang by WebWow! This is a shooting platformer game with LAN multiplayer capabilities. Try staying on the platforms and shoot your opponent as many times as possible. This game can be played on the same computer or across multiple different machines connected over a network.",
+      "screenshots": [
+        {
+          "id": "cfd72114dcde46",
+          "title": "Wow Bang Screenshot",
+          "description": "Screenshot from Wow Bang",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "6f523354f2f945",
+          "title": "Wow Bang Screenshot",
+          "description": "Screenshot from Wow Bang",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "linux": {
+          "id": "e5981ffec7ae44",
+          "title": "Wow Bang Linux",
+          "description": "Linux with GTK2",
+          "mimeType": "application/tgz",
+          "fileExtension": "tgz"
+        },
+        "macos": {
+          "id": "47c3bc3ba1d042",
+          "title": "Wow Bang Macos",
+          "description": "Mac OS 8+",
+          "mimeType": "application/sit",
+          "fileExtension": "sit"
+        },
+        "windows": {
+          "id": "62a74297477844",
+          "title": "Wow Bang Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "e0b35d7dda1042",
+      "title": "Wow Ftp",
+      "year": 2019,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "Welcome to this quick utility for downloading FTP files of a webserver. Simply type in the address of a webserver, and connect to it.",
+      "screenshots": [
+        {
+          "id": "94ed4afc37e34b",
+          "title": "Wow Ftp Screenshot",
+          "description": "Screenshot from Wow Ftp",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "macos": {
+          "id": "f5660ca22c5d49",
+          "title": "Wow Ftp Macos",
+          "description": "Mac OS 8+",
+          "mimeType": "application/sit",
+          "fileExtension": "sit"
+        },
+        "windows": {
+          "id": "35590ddb5bf046",
+          "title": "Wow Ftp Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        }
+      }
+    },
+    {
+      "id": "3ebd0bb7153a44",
+      "title": "Wow Moov",
+      "year": 2019,
+      "developer": "webwow",
+      "category": "utilities",
+      "description": "This is a quick utility for transferring files between Mac OS 9 and Windows computers. This software uses the TCP protocol, thereby allowing you to moove almost any file between computers running different operating systems.",
+      "screenshots": [
+        {
+          "id": "ebd808b120054c",
+          "title": "Wow Moov Screenshot",
+          "description": "Screenshot from Wow Moov",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "linux": {
+          "id": "13ed8e36151940",
+          "title": "Wow Moov Linux",
+          "description": "Linux with GTK2",
+          "mimeType": "application/tgz",
+          "fileExtension": "tgz"
+        },
+        "windows": {
+          "id": "fc91151259cd41",
+          "title": "Wow Moov Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        },
+        "macos": {
+          "id": "77f35918c9344d",
+          "title": "Wow Moov Macos",
+          "description": "Mac OS 8+",
+          "mimeType": "application/sit",
+          "fileExtension": "sit"
+        }
+      }
+    },
+    {
+      "id": "6902f86398fd4a",
+      "title": "Wow Pong",
+      "year": 2019,
+      "developer": "webwow",
+      "category": "games",
+      "description": "This is a classic pong style game with LAN multiplayer capabilities. This game can be played on the same computer or across multiple different machines connected over a network.",
+      "screenshots": [
+        {
+          "id": "79e4484130a548",
+          "title": "Wow Pong Screenshot",
+          "description": "Screenshot from Wow Pong",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "ff1652793d1b4f",
+          "title": "Wow Pong Screenshot",
+          "description": "Screenshot from Wow Pong",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ],
+      "downloads": {
+        "windows": {
+          "id": "eacc18b9b8a849",
+          "title": "Wow Pong Windows",
+          "description": "Windows 98+",
+          "mimeType": "application/zip",
+          "fileExtension": "zip"
+        },
+        "macos": {
+          "id": "eaf8bbcde83b47",
+          "title": "Wow Pong Macos",
+          "description": "Mac OS 8+",
+          "mimeType": "application/sit",
+          "fileExtension": "sit"
+        },
+        "linux": {
+          "id": "ae09e4c4c11b49",
+          "title": "Wow Pong Linux",
+          "description": "Linux with GTK2",
+          "mimeType": "application/tgz",
+          "fileExtension": "tgz"
+        }
+      }
+    }
+  ],
+  "albumCollection": [
+    {
+      "id": "125a9081602a",
+      "albumName": "Blue and Orange",
+      "artist": "webwow",
+      "year": "2021",
+      "label": "webwow",
+      "genre": "Alternative",
+      "description": "A single cover with a distincly warm tone. Overall a great jam when coding or hacking away at that late night project. ",
+      "albumCover": {
+        "id": "125a9081602a",
+        "title": "CD Cover Blue and Orange",
+        "description": "album art",
+        "mimeType": "image/jpeg",
+        "fileExtension": "jpg"
+      },
+      "tracks": [
+        {
+          "id": "fc977f7d88de",
+          "title": "Funked Up",
+          "description": "Funked Up",
+          "trackNumber": 1,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "a3ce33323f71",
+          "title": "Get Down to It",
+          "description": "Get Down to It",
+          "trackNumber": 2,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "e772b02c81b3",
+          "title": "Midnight is Near",
+          "description": "Midnight is Near",
+          "trackNumber": 4,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "65d4a596ebd3",
+          "title": "Wierd Things",
+          "description": "Wierd Things",
+          "trackNumber": 3,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        }
+      ]
+    },
+    {
+      "id": "de21a9e767ce",
+      "albumName": "Webwow Trance",
+      "artist": "webwow",
+      "year": "2021",
+      "label": "webwow",
+      "genre": "Techno",
+      "description": "The official webwow trance album is out and here. Enjoy the 90's inspired tunes and true techno character of this album.",
+      "albumCover": {
+        "id": "de21a9e767ce",
+        "title": "CD Cover Webwow Trance",
+        "description": "album art",
+        "mimeType": "image/jpeg",
+        "fileExtension": "jpg"
+      },
+      "tracks": [
+        {
+          "id": "09415abbb7af",
+          "title": "Tranced Away",
+          "description": "Tranced Away",
+          "trackNumber": 1,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "ccd5438225fa",
+          "title": "Thumping",
+          "description": "Thumping",
+          "trackNumber": 2,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "595383e911d4",
+          "title": "Techno Blitz",
+          "description": "Techno Blitz",
+          "trackNumber": 3,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "2e899e7b69b1",
+          "title": "Striding",
+          "description": "Striding",
+          "trackNumber": 4,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "993f05fd04b0",
+          "title": "Pumpin",
+          "description": "Pumpin",
+          "trackNumber": 5,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "84c8b548259b",
+          "title": "Oh Yeah",
+          "description": "Oh Yeah",
+          "trackNumber": 6,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "9d0211a21e97",
+          "title": "Deep Dive",
+          "description": "Deep Dive",
+          "trackNumber": 7,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        },
+        {
+          "id": "98acef3aba21",
+          "title": "99 Tech",
+          "description": "99 Tech",
+          "trackNumber": 8,
+          "mimeType": "audio/mpeg3",
+          "fileExtension": "mp3"
+        }
+      ]
+    }
+  ],
+  "imageCollection": [
+    {
+      "id": "14fa2be70e5e4e",
+      "albumName": "Lan Party 2020",
+      "year": 2020,
+      "label": "webwow",
+      "description": "2020 LAN party hosted at webwow HQ",
+      "imageItem": [
+        {
+          "id": "4d6faaf636e841",
+          "title": "setting up",
+          "description": "setting up iMAC G3 computers",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "4dc223c036fb41",
+          "title": "ready to play",
+          "description": "setup complete ready for playing games",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "7035e3bf13154d",
+          "title": "monitors on",
+          "description": "all  monitors preheating prior to starting",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "6f7040ee46c840",
+          "title": "game break",
+          "description": "food break between games",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "7c5f0b67693b48",
+          "title": "age of empries",
+          "description": "age of empires game play on iMac G3",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ]
+    },
+    {
+      "id": "e62cb75559fb48",
+      "albumName": "LAN 2024",
+      "year": 2024,
+      "label": "webwow",
+      "description": "2024 LAN Party hosted at webwow HQ 2",
+      "imageItem": [
+        {
+          "id": "1d8a0c8063694b",
+          "title": "initial setup",
+          "description": "image showing setup powered down",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "ee584ba55a544b",
+          "title": "mac se party",
+          "description": "LAN party written on an old MAC SE",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "676481ac4b6b4b",
+          "title": "complete view of setup",
+          "description": "complete view of game setup for the 2024 LAN party",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "077138aa89724e",
+          "title": "retro machines",
+          "description": "retro machines on display for conversation, break and curiosity",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ]
+    },
+    {
+      "id": "200ef1a74e8742",
+      "albumName": "Webwow Server",
+      "year": 2024,
+      "label": "webwow",
+      "description": "the evolution of servers used at webwow",
+      "imageItem": [
+        {
+          "id": "2ffcbb4721364f",
+          "title": "server version 1 2018",
+          "description": "server version 1 running the website on an intel atom machine connected to DSL modem",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "da8d20d91c3c49",
+          "title": "server version 2 2020",
+          "description": "server version 2 (2020) running on a raspberry pi with SSD and large power supply",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "111530fc5fed46",
+          "title": "server version 3 2023",
+          "description": "server version 3 (2023) running on a second hand SFF lenovo machine along with old pi still in service",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ]
+    }
+  ],
+  "aboutCollection": [
+    {
+      "id": "70fc25baefca46",
+      "albumName": "about",
+      "year": 2022,
+      "label": "webwow",
+      "description": "a collection of all images used on the about us page",
+      "imageItem": [
+        {
+          "id": "0fe0ef425d9245",
+          "title": "that point and click game",
+          "description": "an image showing a screenshot from that point and click game",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "bd7d9bf55fe142",
+          "title": "game cd",
+          "description": "the point and click game cd",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "0724ede859474e",
+          "title": "original webwow site",
+          "description": "a screenshot showing the original webwow hompage",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "95b38886250943",
+          "title": "webwow orange and blue",
+          "description": "a screenshot showing the orange and blue webwow homepage",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "0fb5ab4c4cca44",
+          "title": "wow bang",
+          "description": "a screenshot showing the wowbang networked mac os game",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "47635bdff68546",
+          "title": "imac g3 webwow",
+          "description": "an imac g3 showing webwow branding",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "1d85f196b2f24d",
+          "title": "lan party 2020",
+          "description": "the 2020 LAN party hosted at webwow HQ",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "abbfa675347044",
+          "title": "bubble themed homepage",
+          "description": "the bubble themed webwow homepage, very transparant",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "06a01c638ab846",
+          "title": "point and click game v2",
+          "description": "a screenshot showing v2 of that point and click game",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        },
+        {
+          "id": "598abc7849c34a",
+          "title": "ez mailer",
+          "description": "an image showing a webwow ez mailer",
+          "mimeType": "image/jpeg",
+          "fileExtension": "jpg"
+        }
+      ]
+    }
+  ]
+}
